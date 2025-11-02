@@ -1,7 +1,6 @@
 # Grape Wine Rating Inference
- Raw data link : https://github.com/rogerioxavier/X-Wines
-cleaned data : https://drive.google.com/drive/folders/13xFwEdiwVy-EnBzqgvRaHTjjXiqIAKoK?usp=drive_link
+Raw data link : https://github.com/rogerioxavier/X-Wines 
 
- PPT : https://muguet-de-mai.notion.site/X-wines-1b7a8220d5d547e3a315a12fa7454a85
+cleaned data : https://drive.google.com/drive/folders/13xFwEdiwVy-EnBzqgvRaHTjjXiqIAKoK?usp=drive_link 
 
-See OLS result in OLS.txt
+collaborator : [Kuan-wei Tseng](https://github.com/kwt-klure)
